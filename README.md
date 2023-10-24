@@ -12,6 +12,8 @@ Data and Code For "The Impact of Crisis-Period Interest Rate Declines on Distres
 
 **Abstract:**
 
+> We measure the causal impact of reductions in benchmark interest rates on the renegotiation and performance of distressed loans, using 2000s subprime mortgages as a laboratory. Subprime borrowers treated with larger benchmark rate reductions benefited from increased debt-renegotiation probabilities and lower debt-service payments. Modification rates were similar among current and delinquent borrowers but higher for real estate investors, highlighting the role of financial acumen in renegotiation. Renegotiations also reduced longer-run foreclosures, but these benefits were offset by treated borrowers who lingered in delinquency. Findings indicate that monetary easing can spur debt-renegotiation but alone may not lead to longer-run curative outcomes.
+
 
 **Code Instructions:**
 
